@@ -1,1 +1,1 @@
-# vuePress说明文档 -1.0
+# VuePress说明文档 -1.0
